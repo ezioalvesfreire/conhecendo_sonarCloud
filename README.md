@@ -9,7 +9,8 @@ Obs: Sonar Cloud é uma ferramenta de análise de código a fim de analizar déb
 2- Neste exemplo será feita análise em um código no github, para isso clique em github.  
 ![](images/sonar1.png)
 
-3 - informe login e senha do seu github 
+3 - informe login e senha do seu github
+<br>
 ![](images/login_git.png)
 
 # Na pratica
