@@ -16,7 +16,9 @@ Obs: Sonar Cloud é uma ferramenta de análise de código a fim de analizar déb
 
 
 # Na pratica
-#### <p> Para realizar os testes da ferramenta foi utilizado um pequeno repositório de nome "Fritz".</p>
+#### Para realizar os testes da ferramenta foi utilizado um pequeno repositório de nome "Fritz".
+
+<br>
 
 ![](imagens/1.jpg)
 
